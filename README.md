@@ -19,7 +19,7 @@ The current home:
 - Mule Runtime (planned)
 - Email service (planned)
 
-Route 53 - doesn’t matter
+### Route 53 - Global
 - trendinistas.tv
 - panreality.com
 - marthahoffmanhearingdogs.com
